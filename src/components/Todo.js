@@ -4,7 +4,6 @@ import 'bootstrap/dist/css/bootstrap.css';
 
 
 
-
 const defaultItems = [
   {
     name: 'Title A'
